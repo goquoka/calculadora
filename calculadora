@@ -1,0 +1,14 @@
+lass Main {
+  public static void main(String[] args) {
+int a = 10;
+int b = 5;
+  System.out.println(a+b);
+int c = 10;
+int d = 5;
+  System.out.println(a-b);
+int e = 10;
+int f = 5;
+  System.out.println(a*b);
+int g = 10;
+int h = 5;
+  System.out.println(a/b);
